@@ -1,0 +1,38 @@
+# Material file for Crash.obj
+
+newmtl Material__234
+	Ns 10
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd eyelidbottom.png
+
+newmtl Material__233
+	Ns 10
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd eyelidtop.png
+
+newmtl Material__231
+	Ns 10
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd eye.png
+
+newmtl Material__235
+	Ns 10
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.588 0.588 0.588
+	map_Kd crash.png
+
