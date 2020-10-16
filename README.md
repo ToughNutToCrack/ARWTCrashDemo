@@ -13,3 +13,7 @@
 [![Youtube Video](.github/thumbnail.png)](https://youtu.be/bcw7mwjXgpE)
 
 <p align="center"><a href="https://youtu.be/bcw7mwjXgpE" target="_blank">Check the full video on YouTube</a></p>
+
+<p align="center"><a href="https://toughnuttocrack.it/arwtdemo" target="_blank">Live test the project by opening this link and framing the marker below.</a></p>
+<p align="center">!! Tracking the marker directly from the monitor could create instability issues, print it to play the game horizontally !!</p>
+<p align="center"><img width="80" alt="tntc" src=".github/Nutty.jpg"></p>
